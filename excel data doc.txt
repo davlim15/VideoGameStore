@@ -1,0 +1,5 @@
+Employee:
+Title, name, id, salary
+
+Product:
+Title, console, quantity, price
